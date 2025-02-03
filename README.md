@@ -19,7 +19,7 @@ These projects have been **tested and verified using Xilinx Vivado** for FPGA si
 
 ### **2️⃣ (Your Next Project)**
 - **Description:** [Brief description]
-- **Files:** [`src/`](src/) | [`test/`](test/)
+- **Files:** [`source_code)/`](source_code/) | [`testbench/`](testbench/)
 - **Status:** 🏗️ In Progress
 
 > 📌 **More projects will be added soon!**
@@ -45,10 +45,10 @@ These projects have been **tested and verified using Xilinx Vivado** for FPGA si
 ---
 
 ## **Screenshots & Waveforms**
-📷 **Simulation waveforms and outputs** are available in the [`images/`](images/) folder.
+📷 **Simulation waveforms and outputs** are available in the [`images/`](simulation_results/) folder.
 
 Example:  
-![Waveform Example](images/waveform_1.png)
+![Waveform Example](simulation_results/waveform.jpg)
 
 ---
 
