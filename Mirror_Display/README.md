@@ -31,8 +31,11 @@ The testbench for the Mirror Display module is defined in `Mirror_Display_TB.v`.
 - **Version Control:** Git, GitHub
 
 ## Screenshots/Diagrams
-- **Simulation Results:** Add screenshots of your simulation waveforms showing how the display changes with different switch inputs and sensor values.
-- **Schematic:** Optional: You may add a schematic of the vehicle dashboard system to demonstrate the hardware configuration.
+- **Simulation Results:
+Below are the simulation waveforms for the Mirror Display module. These waveforms illustrate how the display changes when the selector switch is toggled.
+
+![Waveform 1](simulation_results/mirror_display.png)
+
 
 ## Challenges & Learnings
 - **Challenge:** Handling multiple input signals efficiently without data collision. This was overcome by ensuring each signal is given its own time slot for evaluation in the `always @(*)` block.
