@@ -31,7 +31,7 @@ The testbench for the Mirror Display module is defined in `Mirror_Display_TB.v`.
 - **Version Control:** Git, GitHub
 
 ## Screenshots/Diagrams
-- **Simulation Results:
+- **Simulation Results:** 
 Below are the simulation waveforms for the Mirror Display module. These waveforms illustrate how the display changes when the selector switch is toggled.
 
 ![Waveform 1](simulation_results/mirror_display.png)
