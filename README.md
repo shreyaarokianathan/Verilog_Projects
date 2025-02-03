@@ -46,9 +46,6 @@ These projects have been **tested and verified using Xilinx Vivado** for FPGA si
 ## **Screenshots & Waveforms**
 📷 **Simulation waveforms and outputs** are available in the [`simulation_results/`](simulation_results/) folder.
 
-Example:  
-![Waveform Example](simulation_results/waveform.jpg)
-
 ---
 
 ## **Challenges & Learnings**
