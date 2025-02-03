@@ -9,21 +9,20 @@ Welcome to my Verilog project repository! This collection includes a variety of 
 These projects have been **tested and verified using Xilinx Vivado** for FPGA simulation and synthesis.
 
 ---
-
 ## **Projects List**
 ### **1️⃣ Mirror Display System**
 - **Description:** A Verilog-based digital display system that selects and shows sensor data (temperature, mileage, fuel range) on a mirror screen.
-- **Files:** [`src/Mirror_Display.v`](source_code/Mirror_Display.v), [`testbench/Mirror_Display_testbench.v`](testbench/Mirror_Display_TB.v)
+- **Files:** [`Mirror_Display/source_code/`](Mirror_Display/source_code/) | [`Mirror_Display/testbench/`](Mirror_Display/testbench/)
 - **Simulation:** Waveforms generated using **Vivado**
 - **Status:** ✅ Completed
 
-### **2️⃣ (Your Next Project)**
-- **Description:** [Brief description]
-- **Files:** [`source_code)/`](source_code/) | [`testbench/`](testbench/)
-- **Status:** 🏗️ In Progress
+### **2️⃣ Home Alarm System with 7-Segment Display**
+- **Description:** A Verilog-based home security system that monitors multiple doors and windows, displaying their status on a 7-segment display. The system triggers an alarm if a predefined number of openings are detected.  
+- **Files:** [`Home_Alarm_System/source_code/`](Home_Alarm_System/source_code/) | [`Home_Alarm_System/testbench/`](Home_Alarm_System/testbench/)
+- **Simulation:** Waveforms generated using **Vivado**
+- **Status:** ✅ Completed
 
 > 📌 **More projects will be added soon!**
-
 
 ---
 
